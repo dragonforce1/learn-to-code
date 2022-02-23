@@ -1,0 +1,4 @@
+var a = "Suck it nerd.";
+var b = " From your favorite Mexican raincoat";
+var c = " (aka Andrew)";
+alert( a + b + c);
