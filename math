@@ -1,0 +1,3 @@
+alert(a + " how are you");
+alert("Andrew, you suck at coding and math");
+var a = "Hi";
